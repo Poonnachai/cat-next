@@ -39,6 +39,9 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             กูมาแล้วไอ่เวร
           </li>
+          <li className="tracking-[-.01em]">
+            id2 edit
+          </li>
         </ol>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
